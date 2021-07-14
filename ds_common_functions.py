@@ -1,8 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Mar 15 12:52:51 2020
 
-@author: Ken
 """
 
 # import exploration files 
